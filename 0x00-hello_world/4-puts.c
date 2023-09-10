@@ -3,8 +3,6 @@
 /*
  * main -Eentry point
  *
- * Descrption: A C program that prints with put function
- *
  * Return: Always 0 (Success)
  */
 
