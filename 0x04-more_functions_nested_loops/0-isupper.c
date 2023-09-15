@@ -2,11 +2,11 @@
 
 /**
  *
- * _isupper - check if c isupper
+ * _isupper - check if c is upper
  *
  * @c: input of alphapet
  *
- * return: 1 if its uppercase, 0 if not
+ * Return: 1 if its uppercase, 0 if not
 */
 
 int _isupper(int c)
